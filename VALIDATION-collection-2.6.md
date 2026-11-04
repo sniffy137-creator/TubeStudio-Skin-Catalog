@@ -13,3 +13,9 @@ Scope: 15 new original clock systems plus the existing five. This is not the fin
 - Separate visual review accepted the 15 distinct static systems and checked digits/service glyphs. Nixie Laboratory is a stylized static glass-tube illustration.
 
 This document records pre-publication checks. Live download/offline QA is recorded separately by the application project. Physical clocks and firmware were not modified.
+
+## Published endpoint checks
+
+Both live HTTPS catalog envelopes match their locally verified bytes and validate with the pinned key. All 20 live package SHA-256 checks passed. Android 16 clean installation automatically loaded 20 previews; a 2.5.1 installation loaded the new 20-entry schema 1 catalog before upgrade. Nixie Laboratory, Brass Engine and Blueprint were downloaded using actual card touch controls, then reopened offline after process restart. Failure/retry states, category/tag search, favorites and scroll retention passed. Normal and font-scale 2.0 screens were captured and independently reviewed.
+
+The production APK preserves the existing signer and vendor/native components. Optional personal-only six-frame packs were tested separately with synthetic fixtures, without adding them to this public catalog. No supplied private photographs are in this repository.
