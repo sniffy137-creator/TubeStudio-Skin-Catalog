@@ -1,0 +1,425 @@
+[
+  {
+    "id": "online.nixie_lab",
+    "name": "Nixie Laboratory",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_nixie_lab",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_nixie_lab_h3a829e20033ac107.tubepack.zip",
+    "sha256": "3a829e20033ac1072a5493eb3e53fe274b205747c203bffcaeb1c775802474a4",
+    "bytes": 219805,
+    "preview_sha256": "858110a9e4cd9935bb40a94a283a2138ac704f7e9789200f37025f6c54894231",
+    "preview_bytes": 15030,
+    "description": "Стеклянный баллон, сетка анода, слои катодов и тёплое статическое свечение.",
+    "category": "nixie",
+    "tags": [
+      "nixie",
+      "лампы",
+      "glass",
+      "лаборатория",
+      "газоразрядные"
+    ]
+  },
+  {
+    "id": "online.brass_engine",
+    "name": "Brass Engine",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_brass_engine",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_brass_engine_h548c48e07c5a21bf.tubepack.zip",
+    "sha256": "548c48e07c5a21bfaf4a69cd398d4218058e549cacf3529eb238eeddf4522b5a",
+    "bytes": 283342,
+    "preview_sha256": "d177a2dea9dfed3a66d0e7d7f8663418cddca7774124d6410bf572f5bd24e349",
+    "preview_bytes": 7692,
+    "description": "Латунный картуш, зубчатые колёса и гравированные цифры с засечками.",
+    "category": "mechanical",
+    "tags": [
+      "brass",
+      "steampunk",
+      "латунь",
+      "механика",
+      "стимпанк"
+    ]
+  },
+  {
+    "id": "online.industrial_gauge",
+    "name": "Industrial Gauge",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_industrial_gauge",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_industrial_gauge_hee03dc418fd996b4.tubepack.zip",
+    "sha256": "ee03dc418fd996b479d945ee4c2e9181531a34d4e2b16f570df6a11d559720be",
+    "bytes": 310716,
+    "preview_sha256": "607cb66f88693d4ca4b2eda5f7f7e7becd3d723157399a4271cc77dbdad4f288",
+    "preview_bytes": 7483,
+    "description": "Круглая шкала заводского прибора, стрелка и крупное контрольное значение.",
+    "category": "mechanical",
+    "tags": [
+      "gauge",
+      "прибор",
+      "манометр",
+      "завод",
+      "шкала"
+    ]
+  },
+  {
+    "id": "online.cyber_grid",
+    "name": "Cyber Grid",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_cyber_grid",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_cyber_grid_h3db17aba6bbe2426.tubepack.zip",
+    "sha256": "3db17aba6bbe242672dacce932eaf4cc787dffed01b652367211a3937e2fc5b9",
+    "bytes": 123535,
+    "preview_sha256": "387300973b1658aea2b3c545d20c04eb0702b7efdd8e6fc7c5224709876db4c0",
+    "preview_bytes": 5819,
+    "description": "Скошенные многоугольные цифры на узлах пространственной сетки.",
+    "category": "futuristic",
+    "tags": [
+      "cyber",
+      "grid",
+      "кибер",
+      "геометрия",
+      "сетка"
+    ]
+  },
+  {
+    "id": "online.neon_tokyo",
+    "name": "Neon Tokyo",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_neon_tokyo",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_neon_tokyo_hb94f4e2538380c6f.tubepack.zip",
+    "sha256": "b94f4e2538380c6f78b5ae3d529777bd51cf95183cb707e027a3f2bbf3dda0d5",
+    "bytes": 199599,
+    "preview_sha256": "5e22effc33a46d777672c4b7b27c5480c2adc3a9e6aa608bc798d68bf8e0ff5f",
+    "preview_bytes": 7192,
+    "description": "Круглые неоновые трубки, двойной контур и геометрия ночной вывески.",
+    "category": "futuristic",
+    "tags": [
+      "neon",
+      "tokyo",
+      "неон",
+      "вывеска",
+      "ночь"
+    ]
+  },
+  {
+    "id": "online.bauhaus",
+    "name": "Bauhaus",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_bauhaus",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_bauhaus_h242add280fadcb90.tubepack.zip",
+    "sha256": "242add280fadcb900e20ef2322e823acb7203108e0787937ccb967c39a7979c7",
+    "bytes": 129785,
+    "preview_sha256": "04f635a8d6212cd28821d9612c2d76f571a41bb1c11465ac71460651f9807c02",
+    "preview_bytes": 6162,
+    "description": "Круги и прямоугольники, асимметричная композиция и первичные цвета.",
+    "category": "geometric",
+    "tags": [
+      "bauhaus",
+      "баухаус",
+      "геометрия",
+      "functional"
+    ]
+  },
+  {
+    "id": "online.monochrome_oled",
+    "name": "Monochrome OLED",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_monochrome_oled",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_monochrome_oled_h6f36e49801aa082c.tubepack.zip",
+    "sha256": "6f36e49801aa082c3581ef6e78e32b15f39810f770c82f1d702b356bea28e292",
+    "bytes": 51206,
+    "preview_sha256": "926cce52a954796089299acaeee7102572cf11ca269db538a7267373ef133ec0",
+    "preview_bytes": 3549,
+    "description": "Большие чистые белые цифры на сплошном чёрном поле.",
+    "category": "minimal",
+    "tags": [
+      "oled",
+      "monochrome",
+      "минимализм",
+      "монохром",
+      "чистый"
+    ]
+  },
+  {
+    "id": "online.vintage_radio",
+    "name": "Vintage Radio",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_vintage_radio",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_vintage_radio_h3ae3cdcb2179a6fd.tubepack.zip",
+    "sha256": "3ae3cdcb2179a6fd19447e07915a5cc6e7424ac049a2a4ab5f812cd431417525",
+    "bytes": 158262,
+    "preview_sha256": "e33c6117b203433a5c40d1d9f1069f7a27e2ea9b764a32ca5aa947475cce6a4e",
+    "preview_bytes": 5285,
+    "description": "Тканевая решётка, частотная шкала и кремовый индикатор старого приёмника.",
+    "category": "retro",
+    "tags": [
+      "radio",
+      "винтаж",
+      "радио",
+      "приёмник",
+      "frequency"
+    ]
+  },
+  {
+    "id": "online.space_mission",
+    "name": "Space Mission",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_space_mission",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_space_mission_had81e6f3359e737e.tubepack.zip",
+    "sha256": "ad81e6f3359e737ef711ac961430a1dc5898735cded77198b30d144ba2ba9a29",
+    "bytes": 101826,
+    "preview_sha256": "6d4423f8958b0f23c051b32081399ca1022ceee68452c2ab38818c27a7c71f40",
+    "preview_bytes": 3665,
+    "description": "Белые модульные знаки, тёмная бортовая панель и служебные индикаторы.",
+    "category": "futuristic",
+    "tags": [
+      "space",
+      "космос",
+      "полёт",
+      "корабль",
+      "mission"
+    ]
+  },
+  {
+    "id": "online.arcade_pixel",
+    "name": "Arcade Pixel",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_arcade_pixel",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_arcade_pixel_he4b240d1de5e2658.tubepack.zip",
+    "sha256": "e4b240d1de5e265801498672feaf731f7e8ef1261ef848cf8461acc266aa4d32",
+    "bytes": 84128,
+    "preview_sha256": "a9be24ca409d826a28be73720ef5f4c7bbbfabb0023874019d7f77a9a8fa478c",
+    "preview_bytes": 2826,
+    "description": "Авторская блочная матрица, ступенчатая рамка и пиксельные игровые фигуры.",
+    "category": "retro",
+    "tags": [
+      "arcade",
+      "pixel",
+      "пиксели",
+      "игра",
+      "аркада"
+    ]
+  },
+  {
+    "id": "online.military_terminal",
+    "name": "Military Terminal",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_military_terminal",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_military_terminal_h7d0ee09551be4f82.tubepack.zip",
+    "sha256": "7d0ee09551be4f823bdeeec8b27001c414a1b8a68541247669338635523fc374",
+    "bytes": 136932,
+    "preview_sha256": "b6ee67960919077a051d3956b557bf33f8e3089817c8d3e3db0b48668954feb4",
+    "preview_bytes": 6197,
+    "description": "Трафаретная нумерация, оливковая полевая панель и контрольные метки.",
+    "category": "terminal",
+    "tags": [
+      "military",
+      "terminal",
+      "полевой",
+      "терминал",
+      "трафарет"
+    ]
+  },
+  {
+    "id": "online.art_deco_gold",
+    "name": "Art Deco Gold",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_art_deco_gold",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_art_deco_gold_h33c2674ef85943b4.tubepack.zip",
+    "sha256": "33c2674ef85943b4a84f1324fa7e668891b5bef1b4945cb94f716ec53b251362",
+    "bytes": 167876,
+    "preview_sha256": "aa6ec256abc0691b468e06fd1eb2705740d0d18ea16f31792250f59fe5e03644",
+    "preview_bytes": 6204,
+    "description": "Узкие геометрические цифры, золотые веера и ступенчатый орнамент.",
+    "category": "decorative",
+    "tags": [
+      "art",
+      "deco",
+      "gold",
+      "арт",
+      "деко",
+      "золото",
+      "орнамент"
+    ]
+  },
+  {
+    "id": "online.liquid_crystal",
+    "name": "Liquid Crystal",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_liquid_crystal",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_liquid_crystal_h711beac510be4b61.tubepack.zip",
+    "sha256": "711beac510be4b6129fc18b9cac7b10c2df28a0fd20ec478801ed970c89ce95b",
+    "bytes": 105712,
+    "preview_sha256": "2ffa57334d9a2a898d365def85db707aff73f44356c99c2b40573a25869be388",
+    "preview_bytes": 3947,
+    "description": "Пассивные сегменты LCD, тёмный графит и зеленоватая подложка.",
+    "category": "retro",
+    "tags": [
+      "lcd",
+      "liquid",
+      "crystal",
+      "жк",
+      "дисплей",
+      "калькулятор"
+    ]
+  },
+  {
+    "id": "online.blueprint",
+    "name": "Blueprint",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_blueprint",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_blueprint_h8a51158d5749498f.tubepack.zip",
+    "sha256": "8a51158d5749498f72e6d4401640228e5417db4cec1be2eccb444f00a00b7a78",
+    "bytes": 183100,
+    "preview_sha256": "3b0c9ebcb0b04422918520eedf2625d204f5329d83b68c94c9970609a1333d30",
+    "preview_bytes": 7571,
+    "description": "Контур цифры на миллиметровой сетке с размерными линиями.",
+    "category": "geometric",
+    "tags": [
+      "blueprint",
+      "инженерный",
+      "чертёж",
+      "размеры",
+      "план"
+    ]
+  },
+  {
+    "id": "online.retro_computer",
+    "name": "Retro Computer",
+    "author": "Tube Studio",
+    "type": "clock",
+    "face_id": "skin_retro_computer",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "compatible_devices": [
+      "HN-H401",
+      "IPSTubeA_III"
+    ],
+    "min_firmware": "1.9.5-photo5-layout1",
+    "url": "https://raw.githubusercontent.com/sniffy137-creator/TubeStudio-Skin-Catalog/main/packs/skin_retro_computer_hd411e5f569e71290.tubepack.zip",
+    "sha256": "d411e5f569e71290d4e32906c17e432171153b2ce0a96773b1853b76b03284dd",
+    "bytes": 110029,
+    "preview_sha256": "8e72799ebed40f63e8c38435e99bd1f3b262cccbe1b161639fb6d214111271d1",
+    "preview_bytes": 3594,
+    "description": "Зелёная растровая матрица, текстовые рамки и курсор домашнего компьютера.",
+    "category": "terminal",
+    "tags": [
+      "retro",
+      "computer",
+      "компьютер",
+      "терминал",
+      "crt",
+      "курсор"
+    ]
+  }
+]

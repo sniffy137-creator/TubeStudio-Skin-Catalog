@@ -1,7 +1,30 @@
 # Tube Studio Skin Catalog
 
-Five original CC0 clock face packs: angular outline, mechanical split flap, dice pips, binary beacon and Roman Art Deco geometry. All fourteen glyphs, RGB565 135x240, editable SVG sources and previews included. No external fonts or artwork.
+20 original CC0 static clock systems for HN-H401 / IPSTubeA_III. Five original2.5 systems plus15 new2.6 systems. Every ZIP contains14 glyphs, RGB565135×240 and PNG previews; editable SVG geometry is in source/. No external fonts, borrowed images, vendor art, characters, APKs, private photos or private keys.
 
-`catalog.json` is a P-256/SHA-256 signed canonical payload. Domain: UTF8("TubeSkinCatalog/v1") followed by byte00 then canonical payload. Key ID: studio-catalog-p256-2026-11. The private signing key is not in this repository. Only allow-listed HTTPS catalog paths are supported by the Android client. No APK, vendor/Simpsons content or private photos.
+- catalog.json and catalog-v1.json: signed schema1 for existing2.5/2.5.1 clients;20 entries.
+- catalog-v2.json: same20 packs plus signed descriptions, category and tags for2.6.
+- Both use the same pinned ECDSA P-256/SHA-256 key and domain UTF8("TubeSkinCatalog/v1") || byte00 || exact canonical UTF8 payload. No signature bypass or trust-key rotation.
+- Existing pack hashes/versions and immutable URLs are unchanged. Preview strips are palette PNGs; full RGB565 images remain in each SHA-256-verified pack.
+- Limits remain256KiB payload,400000-byte envelope,50 entries and32768-byte preview.
+- All effects are static raster artwork. Glow, gears, pointers, pixels and glass do not imply animation or new firmware features. Installation checks model, supported layout, existing names and actual free filesystem bytes before writing; publishing does not install anything on a clock.
 
-Clock display/installation requires an explicitly authorized device test; preview data is sample12:34. Catalog expiry is enforced by the client. Refresh publication before expiry; key rotation requires a newly trusted application release, never a key supplied by the downloaded catalog.
+## New collection
+
+- **Nixie Laboratory** — Стеклянный баллон, сетка анода, слои катодов и тёплое статическое свечение.
+- **Brass Engine** — Латунный картуш, зубчатые колёса и гравированные цифры с засечками.
+- **Industrial Gauge** — Круглая шкала заводского прибора, стрелка и крупное контрольное значение.
+- **Cyber Grid** — Скошенные многоугольные цифры на узлах пространственной сетки.
+- **Neon Tokyo** — Круглые неоновые трубки, двойной контур и геометрия ночной вывески.
+- **Bauhaus** — Круги и прямоугольники, асимметричная композиция и первичные цвета.
+- **Monochrome OLED** — Большие чистые белые цифры на сплошном чёрном поле.
+- **Vintage Radio** — Тканевая решётка, частотная шкала и кремовый индикатор старого приёмника.
+- **Space Mission** — Белые модульные знаки, тёмная бортовая панель и служебные индикаторы.
+- **Arcade Pixel** — Авторская блочная матрица, ступенчатая рамка и пиксельные игровые фигуры.
+- **Military Terminal** — Трафаретная нумерация, оливковая полевая панель и контрольные метки.
+- **Art Deco Gold** — Узкие геометрические цифры, золотые веера и ступенчатый орнамент.
+- **Liquid Crystal** — Пассивные сегменты LCD, тёмный графит и зеленоватая подложка.
+- **Blueprint** — Контур цифры на миллиметровой сетке с размерными линиями.
+- **Retro Computer** — Зелёная растровая матрица, текстовые рамки и курсор домашнего компьютера.
+
+CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/

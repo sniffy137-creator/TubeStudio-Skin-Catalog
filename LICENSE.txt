@@ -1,1 +1,1 @@
-CC0-1.0 — Original Tube Studio 2.5 geometry. These five new face packs and SVG/PNG resources are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/ . No vendor art, fonts, characters, photographs, APKs or private keys are included.
+CC0-1.0 — Original Tube Studio geometry,20 catalog systems and SVG/PNG resources. Dedicated under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/ . No external fonts, borrowed/vendor artwork, characters, photos, APKs or private keys are included.

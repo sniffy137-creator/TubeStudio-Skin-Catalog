@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="240" viewBox="0 0 135 240">
+<rect x="0" y="0" width="135" height="240" rx="0" fill="#0F1520"/>
+<polyline points="7,51 67,13 128,51" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="7,188 67,227 128,188" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="14,44 67,16 121,44" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="14,195 67,224 121,195" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="21,37 67,19 114,37" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="21,202 67,221 114,202" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="28,30 67,22 107,30" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="28,209 67,218 107,209" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="35,23 67,25 100,23" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="35,216 67,215 100,216" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="42,16 67,28 93,16" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="42,223 67,212 93,223" fill="none" stroke="#8E6D3D" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="9,50 9,189" fill="none" stroke="#B89953" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="126,50 126,189" fill="none" stroke="#B89953" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="67.00,89.00 74.00,96.00 67.00,103.00 60.00,96.00" fill="#E8BD69"/>
+<polygon points="67.00,146.00 74.00,153.00 67.00,160.00 60.00,153.00" fill="#E8BD69"/>
+</svg>
